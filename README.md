@@ -1,2 +1,4 @@
 # slingshot
-discrete orbital mechanics puzzle game
+a discrete orbital mechanics puzzle game
+
+info and releases [here](https://limekat.itch.io/slingshot).
